@@ -11,7 +11,7 @@ if($i>=10)
     else{
         echo "php code";
     }
-   echo "hello";
+    
  }
 else
     {

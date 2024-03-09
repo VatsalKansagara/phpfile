@@ -1,6 +1,6 @@
 <?php
 
-$i = 6 ;
+$i = 5 ;
 if($i == 5)
 {
     echo "value is 5";
